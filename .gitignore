@@ -1,0 +1,9 @@
+data/
+*.tsv
+
+.ipynb_checkpoints/
+__pycache__/
+
+env/
+venv/
+.env

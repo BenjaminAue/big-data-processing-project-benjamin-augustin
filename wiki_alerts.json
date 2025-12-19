@@ -1,0 +1,200 @@
+[
+    {
+        "alert_type": "BOT_ACTION",
+        "alert_timestamp": "2025-12-19 18:16:11.901496",
+        "event_data": {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+                "request_id": "5af84daa-db41-42f3-97b6-02e5f054da91",
+                "id": "ae6dd796-012d-47b2-8511-f2a675a61951",
+                "domain": "ro.wikipedia.org",
+                "stream": "mediawiki.recentchange",
+                "dt": "2025-12-19T17:16:08.529Z",
+                "topic": "codfw.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 1820877058
+            },
+            "id": 145942022,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Categorie:Format IMDb template f\u0103r\u0103 id setat",
+            "title_url": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+            "comment": "[[:Pierre Arditi]] a fost ad\u0103ugat\u0103 \u00een categorii",
+            "timestamp": 1766164566,
+            "user": "Strainubot",
+            "bot": true,
+            "notify_url": "https://ro.wikipedia.org/w/index.php?diff=17343291&oldid=0&rcid=145942022",
+            "server_url": "https://ro.wikipedia.org",
+            "server_name": "ro.wikipedia.org",
+            "server_script_path": "/w",
+            "wiki": "rowiki",
+            "parsedcomment": "<a href=\"/wiki/Pierre_Arditi\" title=\"Pierre Arditi\">Pierre Arditi</a> a fost ad\u0103ugat\u0103 \u00een categorii"
+        }
+    },
+    {
+        "alert_type": "BOT_ACTION",
+        "alert_timestamp": "2025-12-19 18:16:22.421585",
+        "event_data": {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+                "request_id": "defd3631-b9c6-42ba-a2c5-368b51421dff",
+                "id": "12af5e07-cc83-46e6-b7b9-c03578b0ef93",
+                "domain": "ro.wikipedia.org",
+                "stream": "mediawiki.recentchange",
+                "dt": "2025-12-19T17:16:19.018Z",
+                "topic": "codfw.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 1820877505
+            },
+            "id": 145942042,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Categorie:Format IMDb template f\u0103r\u0103 id setat",
+            "title_url": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+            "comment": "[[:Tina Aumont]] a fost ad\u0103ugat\u0103 \u00een categorii",
+            "timestamp": 1766164576,
+            "user": "Strainubot",
+            "bot": true,
+            "notify_url": "https://ro.wikipedia.org/w/index.php?diff=17343297&oldid=0&rcid=145942042",
+            "server_url": "https://ro.wikipedia.org",
+            "server_name": "ro.wikipedia.org",
+            "server_script_path": "/w",
+            "wiki": "rowiki",
+            "parsedcomment": "<a href=\"/wiki/Tina_Aumont\" title=\"Tina Aumont\">Tina Aumont</a> a fost ad\u0103ugat\u0103 \u00een categorii"
+        }
+    },
+    {
+        "alert_type": "BOT_ACTION",
+        "alert_timestamp": "2025-12-19 18:16:25.553306",
+        "event_data": {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://commons.wikimedia.org/wiki/Category:Taken_on_missing_SDC_inception",
+                "request_id": "79fff697-0e55-4de3-a549-b470b3125a14",
+                "id": "53ec6bd5-a025-4e0d-a6df-644ccc258563",
+                "domain": "commons.wikimedia.org",
+                "stream": "mediawiki.recentchange",
+                "dt": "2025-12-19T17:16:22.523Z",
+                "topic": "codfw.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 1820877643
+            },
+            "id": 3125054007,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Category:Taken on missing SDC inception",
+            "title_url": "https://commons.wikimedia.org/wiki/Category:Taken_on_missing_SDC_inception",
+            "comment": "[[:File:Expedition 71 Soyuz Blessing (NHQ202403200004).jpg]] added to category",
+            "timestamp": 1766164580,
+            "user": "OptimusPrimeBot",
+            "bot": true,
+            "notify_url": "https://commons.wikimedia.org/w/index.php?diff=1133590930&oldid=0&rcid=3125054007",
+            "server_url": "https://commons.wikimedia.org",
+            "server_name": "commons.wikimedia.org",
+            "server_script_path": "/w",
+            "wiki": "commonswiki",
+            "parsedcomment": "<a href=\"/wiki/File:Expedition_71_Soyuz_Blessing_(NHQ202403200004).jpg\" title=\"File:Expedition 71 Soyuz Blessing (NHQ202403200004).jpg\">File:Expedition 71 Soyuz Blessing (NHQ202403200004).jpg</a> added to category"
+        }
+    },
+    {
+        "alert_type": "BOT_ACTION",
+        "alert_timestamp": "2025-12-19 18:16:30.768250",
+        "event_data": {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+                "request_id": "cd34a48d-7ec3-41dc-87f3-0746b3e29ad5",
+                "id": "f95cae53-24c3-4054-9b9c-575089d4ff2c",
+                "domain": "ro.wikipedia.org",
+                "stream": "mediawiki.recentchange",
+                "dt": "2025-12-19T17:16:27.382Z",
+                "topic": "codfw.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 1820877838
+            },
+            "id": 145942056,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Categorie:Format IMDb template f\u0103r\u0103 id setat",
+            "title_url": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+            "comment": "[[:Peter Hobbs]] a fost ad\u0103ugat\u0103 \u00een categorii",
+            "timestamp": 1766164585,
+            "user": "Strainubot",
+            "bot": true,
+            "notify_url": "https://ro.wikipedia.org/w/index.php?diff=17343300&oldid=0&rcid=145942056",
+            "server_url": "https://ro.wikipedia.org",
+            "server_name": "ro.wikipedia.org",
+            "server_script_path": "/w",
+            "wiki": "rowiki",
+            "parsedcomment": "<a href=\"/wiki/Peter_Hobbs\" title=\"Peter Hobbs\">Peter Hobbs</a> a fost ad\u0103ugat\u0103 \u00een categorii"
+        }
+    },
+    {
+        "alert_type": "BOT_ACTION",
+        "alert_timestamp": "2025-12-19 18:16:38.167285",
+        "event_data": {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+                "request_id": "2509704a-43ed-4274-9ebf-03505e7150fb",
+                "id": "f1d56a09-2875-4b57-bde8-d8ff7b67d838",
+                "domain": "ro.wikipedia.org",
+                "stream": "mediawiki.recentchange",
+                "dt": "2025-12-19T17:16:35.039Z",
+                "topic": "codfw.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 1820878092
+            },
+            "id": 145942080,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Categorie:Format IMDb template f\u0103r\u0103 id setat",
+            "title_url": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+            "comment": "[[:Dominique Labourier]] a fost ad\u0103ugat\u0103 \u00een categorii",
+            "timestamp": 1766164592,
+            "user": "Strainubot",
+            "bot": true,
+            "notify_url": "https://ro.wikipedia.org/w/index.php?diff=17343304&oldid=0&rcid=145942080",
+            "server_url": "https://ro.wikipedia.org",
+            "server_name": "ro.wikipedia.org",
+            "server_script_path": "/w",
+            "wiki": "rowiki",
+            "parsedcomment": "<a href=\"/wiki/Dominique_Labourier\" title=\"Dominique Labourier\">Dominique Labourier</a> a fost ad\u0103ugat\u0103 \u00een categorii"
+        }
+    },
+    {
+        "alert_type": "BOT_ACTION",
+        "alert_timestamp": "2025-12-19 18:16:46.704285",
+        "event_data": {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+                "request_id": "559dd815-4e0c-4e66-a8c2-5dd922ed27cd",
+                "id": "10e77a57-a1e9-440b-9a9b-daa1b4f217d2",
+                "domain": "ro.wikipedia.org",
+                "stream": "mediawiki.recentchange",
+                "dt": "2025-12-19T17:16:42.731Z",
+                "topic": "codfw.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 1820878472
+            },
+            "id": 145942096,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Categorie:Format IMDb template f\u0103r\u0103 id setat",
+            "title_url": "https://ro.wikipedia.org/wiki/Categorie:Format_IMDb_template_f%C4%83r%C4%83_id_setat",
+            "comment": "[[:Pierre Malet]] a fost ad\u0103ugat\u0103 \u00een categorii",
+            "timestamp": 1766164600,
+            "user": "Strainubot",
+            "bot": true,
+            "notify_url": "https://ro.wikipedia.org/w/index.php?diff=17343308&oldid=0&rcid=145942096",
+            "server_url": "https://ro.wikipedia.org",
+            "server_name": "ro.wikipedia.org",
+            "server_script_path": "/w",
+            "wiki": "rowiki",
+            "parsedcomment": "<a href=\"/wiki/Pierre_Malet\" title=\"Pierre Malet\">Pierre Malet</a> a fost ad\u0103ugat\u0103 \u00een categorii"
+        }
+    }
+]
